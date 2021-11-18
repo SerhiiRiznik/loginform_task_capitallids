@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/loginform_task_capitallids/static/css/main.f3004174.chunk.css",
+    "main.js": "/loginform_task_capitallids/static/js/main.9c2e56de.chunk.js",
+    "main.js.map": "/loginform_task_capitallids/static/js/main.9c2e56de.chunk.js.map",
+    "runtime-main.js": "/loginform_task_capitallids/static/js/runtime-main.e2c14fbb.js",
+    "runtime-main.js.map": "/loginform_task_capitallids/static/js/runtime-main.e2c14fbb.js.map",
+    "static/js/2.1e34674a.chunk.js": "/loginform_task_capitallids/static/js/2.1e34674a.chunk.js",
+    "static/js/2.1e34674a.chunk.js.map": "/loginform_task_capitallids/static/js/2.1e34674a.chunk.js.map",
+    "static/js/3.28411834.chunk.js": "/loginform_task_capitallids/static/js/3.28411834.chunk.js",
+    "static/js/3.28411834.chunk.js.map": "/loginform_task_capitallids/static/js/3.28411834.chunk.js.map",
+    "index.html": "/loginform_task_capitallids/index.html",
+    "static/css/main.f3004174.chunk.css.map": "/loginform_task_capitallids/static/css/main.f3004174.chunk.css.map",
+    "static/js/2.1e34674a.chunk.js.LICENSE.txt": "/loginform_task_capitallids/static/js/2.1e34674a.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/loginform_task_capitallids/static/media/form-mobile-bg-cover.79566593.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e2c14fbb.js",
+    "static/js/2.1e34674a.chunk.js",
+    "static/css/main.f3004174.chunk.css",
+    "static/js/main.9c2e56de.chunk.js"
+  ]
+}
